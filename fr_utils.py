@@ -1,5 +1,5 @@
-# This is the utility code of the main notebook, copied from "Convolutional Neural Network"(Coursera) week-4 assignment
 # To load dataset and weights from FaceNet model, to convert images to encodings.
+# This is the utility code, used accordingly for the main notebook, copied from "Convolutional Neural Network"(Coursera) week-4 assignment.
 
 import tensorflow as tf
 import numpy as np
