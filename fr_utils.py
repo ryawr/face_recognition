@@ -1,4 +1,5 @@
-#### PART OF THIS CODE IS USING CODE FROM VICTOR SY WANG: https://github.com/iwantooxxoox/Keras-OpenFace/blob/master/utils.py ####
+# This is the utility code of the main notebook, copied from "Convolutional Neural Network"(Coursera) week-4 assignment
+# To load dataset and weights from FaceNet model, to convert images to encodings.
 
 import tensorflow as tf
 import numpy as np
