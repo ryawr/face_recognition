@@ -1,3 +1,6 @@
+# This is the utility code of the main notebook, copied from "Convolutional Neural Network"(Coursera) week-4 assignment
+# Defining and implementing whole architecture of the Inception model used for FaceNet
+
 import tensorflow as tf
 import numpy as np
 import os
